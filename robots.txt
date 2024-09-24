@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://msparyp.github.io/sitemap.html.gz
+Sitemap: https://msparyp.github.io/app/sitemap.html.gz
+Sitemap: https://msparyp.github.io/assets/sitemap.html.gz
+Sitemap: https://msparyp.github.io/css/sitemap.html.gz
+Sitemap: https://msparyp.github.io/data/sitemap.html.gz
+Sitemap: https://msparyp.github.io/includes/sitemap.html.gz
+Sitemap: https://msparyp.github.io/item/sitemap.html.gz
+Sitemap: https://msparyp.github.io/src/sitemap.html.gz
